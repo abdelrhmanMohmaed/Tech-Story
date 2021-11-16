@@ -1,0 +1,11 @@
+cats(id,name,created_at) <-- relishtion one to many
+
+products(id,name,desc,price,pieces_no,img, created_at,cat_id)
+
+orders(id,name,email,phone,address,created_at,status[cancel,aprove,])
+
+order_details(id, order_id, product_id, qty)<-pivout table
+----------------------------------------------------------
+
+
+admins(id,name,email,password,is_super,created_at)
