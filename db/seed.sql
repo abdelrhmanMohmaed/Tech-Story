@@ -65,7 +65,7 @@ VALUES (
         5000,
         5,
         '8.jpg',
-        2
+        3
     ),
     (
         'oppo',
@@ -73,7 +73,7 @@ VALUES (
         5500,
         5,
         '9.jpg',
-        2
+        3
     ),
     (
         'hwawei',
@@ -81,7 +81,7 @@ VALUES (
         5200,
         5,
         '10.jpg',
-        2
+        3
     );
 INSERT INTO admins(name, email, password)
 VALUES
