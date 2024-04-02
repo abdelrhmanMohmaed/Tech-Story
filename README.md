@@ -18,5 +18,5 @@ Our simple e-commerce website is built using PHP  to provide a seamless shopping
 - **Backend:** PHP
 - **Frontend:** HTML5, CSS, JavaScript, Bootstrap
 - **Database:** MySQL
-- 
+  
 ---
